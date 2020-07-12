@@ -1,0 +1,5 @@
+Instalação e configuração do Git:
+
+ - Configuração com os códigos:
+  - git config.name
+  - git config.email

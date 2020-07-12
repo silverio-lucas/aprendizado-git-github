@@ -1,0 +1,13 @@
+Principais Comandos
+
+  git init
+  git status
+  git add .
+  git commit -m ""
+  git remote add origin "link"
+  git push origin master
+  git pull origin master
+  git branch 
+  git checkout
+  git checkout -b
+  git merge

@@ -1,0 +1,3 @@
+Git é um sistema de controle de versão de arquivos.
+
+Com ele podemos desenvolver projetos colaborativos com facilidade.
